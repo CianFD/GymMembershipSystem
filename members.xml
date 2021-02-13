@@ -1,0 +1,31 @@
+<object-stream>
+  <list>
+    <Member>
+      <email>ciandunneesquire@social.com</email>
+      <name>Cian Dunne Esquire</name>
+      <address>The Mansion You Can&apos;t Afford</address>
+      <gender>Unspecified</gender>
+      <height>1.9</height>
+      <startWeight>200.0</startWeight>
+      <chosenPackage>Package1</chosenPackage>
+    </Member>
+    <Member>
+      <email>leslie@knope.com</email>
+      <name>Leslie Knope</name>
+      <address>987 Streetville Drive</address>
+      <gender>F</gender>
+      <height>1.3</height>
+      <startWeight>120.0</startWeight>
+      <chosenPackage>Package1</chosenPackage>
+    </Member>
+    <Member>
+      <email>april@ludgate.com</email>
+      <name>April Ludgate</name>
+      <address>413 Olive Park Avenue</address>
+      <gender>F</gender>
+      <height>1.2</height>
+      <startWeight>100.0</startWeight>
+      <chosenPackage>Package3</chosenPackage>
+    </Member>
+  </list>
+</object-stream>

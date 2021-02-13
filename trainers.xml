@@ -1,0 +1,18 @@
+<object-stream>
+  <list>
+    <Trainer>
+      <email>ron@swanson.com</email>
+      <name>Ron Swanson</name>
+      <address>You don&apos;t need to know</address>
+      <gender>M</gender>
+      <specialty>Woodworking</specialty>
+    </Trainer>
+    <Trainer>
+      <email>chris@traeger.com</email>
+      <name>Chris Traeger</name>
+      <address>279 Pond Avenue</address>
+      <gender>M</gender>
+      <specialty>Cardio</specialty>
+    </Trainer>
+  </list>
+</object-stream>

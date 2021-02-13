@@ -1,0 +1,15 @@
+Name : Cian Dunne
+Student Number : 20091471
+Which level unit tests succeed completely: All unit tests up to and including the Excellent Unit Tests Succeed Completely
+Which level unit tests succeed partially: No Unit Tests Succeed Partially
+
+Self reflection - Grading Spectrum Level: As of writing this I believe my program to be reaching the lower edges of the Excellent Section.
+I would be hoping for a score of 70-75%.
+
+A statement of how much of the application specification you implemented.
+
+Any extra features you wish to bring to the assessors attention, i.e. extra functionality, Java syntax not covered in the lectures, non-standard Libraries used
+
+Known bugs/problems : As I have not implemented Exception Handling across my menus, my menus will error and crash the program
+if the correct details are not inputted. It also affects menus where information is entered e.g. Address could take in a String of just numbers instead of an actual address.
+Any sources referred to during the development of the assignment (no need to reference lecture/lab materials):
